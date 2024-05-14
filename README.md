@@ -61,11 +61,6 @@ parking-spot-tracking
 
 ## Output Video
 
-<video width="320" height="240" controls>
-  <source src="/home/noman/parking-spot-tracking/data/output_video.mp4" type="video/mp4">Unsupported video!!! Follow below instructions</video>
-
-or
-
 You can view or download the output video from the following link:
 
 [Output Video](https://drive.google.com/drive/folders/1KHWmQFzBMLLaRbD0ROsyWiYAF_-E3W9K)
